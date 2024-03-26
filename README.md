@@ -45,4 +45,4 @@ weighted avg       0.85      0.88      0.86      6170
 
 ## Conclusion
 The sentiment analysis project successfully classified customer reviews into sentiment categories (negative, neutral, positive) with an accuracy of 0.8799. The classifier performed well in identifying positive sentiment reviews, achieving a high precision, recall, and F1-score. However, the performance was relatively lower for neutral and negative sentiment reviews, indicating potential areas for improvement.
-[[![Capture.jpg](https://i.postimg.cc/1R8SQw0g/Capture.jpg)](https://postimg.cc/ThvFjy4G)](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+![image](https://github.com/Akinyemibolatito/Sentiment-Analysis-README/assets/62047960/ffc3b96b-f50c-47a5-bcb7-5913196e3318)
